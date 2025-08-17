@@ -75,7 +75,7 @@ Siga os passos abaixo para configurar e executar a aplicação no seu ambiente l
 
 2.  **Navegue até o diretório do projeto:**
     ```bash
-    cd gerador-danfe-react
+    cd Gerador-De-Danfe
     ```
 
 3.  **Instale as dependências:**
@@ -105,5 +105,5 @@ Siga os passos abaixo para configurar e executar a aplicação no seu ambiente l
 Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](https://github.com/Nego90/Gerador-De-Danfe/blob/main/LICENSE) para mais detalhes.
 
 <div align="center">
-  Feito com ❤️ por <a href="https://github.com/Nego90">Seu Nome</a>
+  Feito com ❤️ por <a href="https://github.com/Nego90">Luan Lima</a>
 </div>
